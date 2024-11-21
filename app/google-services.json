@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235064520644",
+    "project_id": "password-5528d",
+    "storage_bucket": "password-5528d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235064520644:android:e8e8bf862b4056714a7e91",
+        "android_client_info": {
+          "package_name": "com.example.securepasswords"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTEr4OGNwI1FIJPWL7xDxihbG94KA9onA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
